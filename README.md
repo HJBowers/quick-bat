@@ -56,7 +56,8 @@ Dive Into UNIX and Bash
 ## Stretch
  - [X] All exercises are completed from the “Learn Enough Command Line to be Dangerous” book and solution code is included as files under a command-line/ directory.
  - [X] All activities are completed from the Bash Scripting tutorials and solution code is included as files under a bash-scripting/ directory.
- - [ ] 10 activities are completed from the Linux tutorials and solution code is included as files under a linux/ directory.*
+ - [X] 10 activities are completed from the Linux tutorials and solution code is included as files under a linux/ directory.*
+ - [X] Complete as many exercises as possible in promise-shop folder, which is exercises from promise-it-wont-hurt tutorial.
  Note: there will likely be overlap between this tutorial and the Hartl book. Choose only activities that cover new material so you don’t do redundant work.
 
 ## Quality Rubric
